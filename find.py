@@ -4,10 +4,10 @@ import shutil
 
 fromDir = "fromTest"
 
-startYear = 2009
-endYear = 2018
+startYear = 1999
+endYear = 2001
 
-toDir = "3-12"
+toDir = "toTest"
 
 files = os.listdir(fromDir)
 
